@@ -109,3 +109,12 @@ button:active{
     position:relative;
 	top:1px;
 }
+
+li a{
+    text-decoration: none;
+    font-size: 19px;
+}
+
+a:hover{
+    color: red;
+}
